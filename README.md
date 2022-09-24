@@ -10,13 +10,13 @@ and universety projects (labs, course works, etc.).
 - group (9892, 0335)
 - semester-year (<N>sem-<yyyy>)
 - class name (algo-and-ds, communications, etc.)
-- work type with number or/and help label ([help]-<N>lab, [help]-cw, [help]-<N>hw)
+- work type with number or/and help label ([help]-<N>lab-[lastname], [help]-cw-[lastname], [help]-<N>hw-[lastname])
 - work theme or lastname of person I helped (may be not present).
 
 #### Examples:
 - u.leti.9892.6sem-2022.algo-and-ds.1lab.rbtree
 - u.leti.0335.5sem-2022.engineering-drawing.cw
-- u.leti.9892.6sem-2022.algo-and-ds.help-1lab.evseeva
+- u.leti.9892.6sem-2022.algo-and-ds.help-1lab-evseeva.flow-network
 
 <!--
 - 👀 I’m interested in ...
