@@ -1,3 +1,22 @@
+[![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kira607&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kira607&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+## [Personal Website](https://www...)
+
+🔭 I’m currently working on:
+- ...
+
+🌱 I’m currently learning:
+- ...
+
+📫 How to reach me:
+- [Youtube Channel](sometime in the future I guess...)
+- Email ...
+- Discord ...
+- Telegram ...
+--->
+
 - 👋 Hi, I’m @kira607
 
 This is my GitHub profile for personal pet projects
